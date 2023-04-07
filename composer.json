@@ -1,6 +1,7 @@
 {
     "name": "jaxonrailey/vane",
     "description": "My Composer package",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "JaxonRailey",
