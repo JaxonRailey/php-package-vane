@@ -1,0 +1,17 @@
+{
+    "name": "jaxonrailey/vane",
+    "description": "My Composer package",
+    "authors": [
+        {
+            "name": "JaxonRailey",
+            "email": "loris@programmer.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JaxonRailey\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false
+}
