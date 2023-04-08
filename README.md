@@ -5,7 +5,6 @@
 
 ## Installation
 
-
 To install the package, run this command from a terminal
 
 ```
@@ -13,7 +12,6 @@ composer require jaxonrailey/vane
 ```
 
 ## How to use
-
 
 Once installed, include the namespace
 
@@ -28,7 +26,6 @@ $vane = new Vane();
 ```
 
 ## Example
-
 
 Consider the following array on which we will do some queries:
 
