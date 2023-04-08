@@ -211,7 +211,7 @@ Select elements that have more than x elements in an array property:
 ```php
 $vane->select('*');
 $vane->from('planet');
-$vane->counter('atmosphere', '>', 4);
+$vane->counter('atmosphere', '>', 3);
 $rows = $vane->rows();
 ```
 
