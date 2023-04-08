@@ -220,7 +220,7 @@ Select a single item based on its identifier:
 ```php
 $vane->select('*');
 $vane->from('planet');
-$vane->id('<id-of-element>');
+$row = $vane->id('<id-of-element>');
 ```
 
 The select statement can also accept individual properties:
