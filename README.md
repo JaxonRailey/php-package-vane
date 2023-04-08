@@ -149,6 +149,7 @@ $vane->save($planets);
 
 ```php
 $vane->from('planet');
+$vane->where('temperature', '>', 0);
 $vane->save(['star' => 'Sun']);
 ```
 
